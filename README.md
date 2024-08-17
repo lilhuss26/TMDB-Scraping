@@ -4,7 +4,9 @@ This code takes a director or actor's name and scrap data of every project he wo
 ### Souper 
 This function returns the soup (HTML code) for any link, using "lxml" parser
 ### get_person_page
-Since we can't move directly to an actor link page with his name, because the link contains a unique code like this "https://www.themoviedb.org/person/138-quentin-tarantino", we create a bot to simulate the search process.
+Since we can't move directly to an actor link page with his name,
+because the link contains a unique code like this "https://www.themoviedb.org/person/138-quentin-tarantino",
+we create a bot to simulate the search process.
 We extract the herf EX:(/person/138-quentin-tarantino) of the actor from the result box we scraped from the query page.
 ### find_works
 This function takes the link got extracted from the `get_person_page`, to get a list of the link of every work the actor envolved in, grouped by his role.
