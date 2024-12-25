@@ -25,8 +25,8 @@ Also, we have a function to scrape a movie cast and the characters they played, 
 ### Usage Example
 Actor discography (Leonardo DiCaprio) :
 
-![Actor Discography]({Actor Example}.png)
+![Actor Discography]({ActorExample}.png)
 
 Movie cast (Spider-Man: No Way Home):
 
-![Movie Cast]({Movie Example}.png)
+![Movie Cast]({MovieExample}.png)
