@@ -22,3 +22,5 @@ We call `get_person_page` & `find_works`.Then iterate over each group of movie l
 Then make it a pandas data frame.
 ### cast_datar
 Also, we have a function to scrape a movie cast and the characters they played, and sort it in a pandas data frame.
+### Usage Example
+![Actor Example]({A94BEACC-27A6-498D-8990-7C068DF5B5FE}.png)
