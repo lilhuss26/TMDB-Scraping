@@ -27,6 +27,6 @@ Actor discography (Leonardo DiCaprio) :
 
 ![image](https://github.com/user-attachments/assets/38e7135e-7056-4819-a584-cf073efbf52c)
 
-Movie cast (Spider-Man: No Way Home):
+Movie cast (Spider-Man: No Way Home) :
 
 ![image](https://github.com/user-attachments/assets/98cd04a9-566f-489c-b0ef-5b26a5d0d311)
